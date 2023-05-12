@@ -1,0 +1,55 @@
+h1 {
+    font-size: 165%;
+    font-weight: normal;
+}
+p {
+    color: green;
+}
+footer p {
+    color: orange;
+}
+footer p {
+    color: blue;
+}
+
+h1 {
+    color:orange;
+    text-align: center;
+}
+
+header p span {
+    color: green;
+}
+
+header p span {
+    color: blue;
+}
+
+.color {
+    background-color: yellow;
+}
+
+.container {
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-area {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.main {
+    width: 70%;
+    float: left;
+}
+
+.support {
+    width: 30%;
+    float: left;
+}
+
+.fix {
+    clear: both;
+}
